@@ -1,4 +1,6 @@
-# EX-05_CNS
+## EX.NO:
+## DATE:
+
 # DEFEATING MALWARE - BUILDING TROJANS 
  
 # AIM:  
@@ -48,6 +50,8 @@ goto x
 
 
 
+## EX.NO:
+## DATE:
 
 
   # INSTALL ROOTKITS AND STUDY VARIETY OF OPTIONS 
